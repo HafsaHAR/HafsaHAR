@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Full-Stack+Developer;React+%C2%B7+Node.js+%C2%B7+Java+%C2%B7+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%40+INPT;Full-Stack+Developer;React+%C2%B7+Node.js+%C2%B7+Java+%C2%B7+Docker;Open+to+a+6-month+PFE+Internship" alt="Typing SVG" />
 </div>
 
 <br>
@@ -14,15 +14,15 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineering student** at INPT (National Institute of Posts and Telecommunications), Rabat. I build **full-stack web applications** — from clean, responsive interfaces to robust APIs and containerized deployments.
+I'm a **final-year Software Engineering student** at INPT (National Institute of Posts and Telecommunications), Rabat. I'm passionate about building **reliable, user-centered software** — from responsive interfaces to secure, scalable backends.
 
-I enjoy turning ideas into working products, writing maintainable code, and learning the engineering practices that make software reliable in production.
+Through two software engineering internships and several team projects, I've built **full-stack platforms**, designed **secure REST APIs** with JWT and role-based access control, and containerized **multi-service architectures** with Docker. Curious, autonomous, and comfortable in **Agile teams**, I love turning real-world needs into maintainable solutions.
 
 ### 🎯 What I Focus On
-- 🎨 **Frontend**: responsive, component-based UIs with React
-- ⚙️ **Backend**: REST APIs with Node.js / Express and Java (Spring Boot)
-- 🗄️ **Databases**: relational and NoSQL data modeling
-- 🐳 **DevOps**: Docker, Git workflows, CI/CD basics
+- 🌐 **Full-Stack Development**: React.js, React Native (Expo), Node.js, Express
+- 🔐 **Secure Backends**: REST & GraphQL APIs, JWT authentication, RBAC, bcrypt
+- 🏗️ **Software Architecture**: hexagonal architecture, Domain-Driven Design, real-time systems (WebSockets)
+- 🐳 **DevOps**: Docker, Docker Compose, Linux & Shell scripting
 
 ## 🛠️ Tech Stack
 
@@ -31,14 +31,23 @@ I enjoy turning ideas into working products, writing maintainable code, and lear
 ### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=java,js,ts,python" />
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+### 🎨 Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+<br>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 
-### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb" />
+### ⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
 
-### 🛠️ Tools & DevOps
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+
+### 🐳 DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github,figma" />
+<br>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Scrum_%2F_SAFe-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
 
 </div>
 
@@ -46,24 +55,33 @@ I enjoy turning ideas into working products, writing maintainable code, and lear
 
 <div align="center">
 
-### 🌿 [NazahaTECH](https://github.com/HafsaHAR/nazahaTECH)
-**Tech Stack:** `JavaScript` `HTML` `CSS`  
-**Key Features:** TODO — describe the main features  
-**Impact:** TODO — what problem it solves / who it is for
+### 🏛️ [NazahaTECH](https://github.com/HafsaHAR/nazahaTECH) — Civic Innovation & Anti-Corruption Platform
+**Tech Stack:** `React.js` `Node.js` `Express` `MongoDB` `Docker`  
+**Key Features:** Idea submission • Community voting • Thematic challenges • Resource sharing  
+**Security:** Secure REST APIs with JWT, bcrypt password hashing & 3-level RBAC  
+**Context:** Built during my internship at **INPPLC** (National Integrity, Prevention & Anti-Corruption Authority)
 
 ---
 
-### 🎓 [Student Management System](https://github.com/HafsaHAR/gestion-des--tudiants)
-**Tech Stack:** `TODO`  
-**Key Features:** Student records management • CRUD operations • TODO  
-**Impact:** TODO
+### 🏭 On-Call Management Platform — OCP Group
+**Tech Stack:** `React` `Node.js` `MongoDB`  
+**Key Features:** On-call scheduling across **8 industrial sites** • Rotation with public holidays • 3-level incident escalation  
+**Security:** JWT-secured REST APIs with a 5-level RBAC model  
+**Impact:** Continuous on-call coverage and clear accountability chain for unresolved incidents
 
 ---
 
-### 🍔 [Burger Maker](https://github.com/HafsaHAR/burgermaker)
-**Tech Stack:** `HTML` `CSS` `JavaScript`  
-**Key Features:** Interactive burger builder • TODO  
-**Impact:** TODO
+### 🛠️ TerrainPlus — Field Technicians Platform
+**Tech Stack:** `Java` `React Native` `TypeScript` `PostgreSQL` `Redis` `Docker` `Flyway`  
+**Key Features:** Hexagonal architecture (DDD) • Mobile app with Expo • Real-time technician tracking via WebSockets & maps  
+**Security:** JWT + Redis authentication
+
+---
+
+### 🗺️ Déplace-Toi — Mobility & Trip Planning Platform
+**Tech Stack:** `Node.js` `Express.js` `MySQL` `JavaScript`  
+**Key Features:** Personalized trip planning • Route selection • Online booking • Dynamic filtering by walking distance  
+**Security:** REST API with bcrypt password hashing • Responsive UI
 
 </div>
 
@@ -73,8 +91,10 @@ I enjoy turning ideas into working products, writing maintainable code, and lear
 
 | 🎓 **Role** | 📅 **Duration** | 🏢 **Organization** |
 |:---:|:---:|:---:|
-| 🎓 Software Engineering Student | TODO - Present | **INPT** |
-| 💻 TODO Intern | TODO | **TODO** |
+| 💻 Software Developer Intern | Jul 2026 - Sep 2026 | **INPPLC** — Rabat |
+| 💻 Software Developer Intern | Jul 2025 - Aug 2025 | **OCP Group** — Ben Guerir |
+| 🎓 Software Engineering Student | 2024 - 2027 | **INPT** — Rabat |
+| 📚 Preparatory Classes (CPGE TSI) | 2022 - 2024 | **LYDEX** — Ben Guerir |
 
 </div>
 
@@ -82,10 +102,20 @@ I enjoy turning ideas into working products, writing maintainable code, and lear
 
 <div align="center">
 
-💼 **TODO — Internship in Software Engineering / Full-Stack Development**  
-*Looking to build real-world, scalable applications with a great team*
+🎓 **6-month Final-Year Internship (PFE) in Software Engineering**  
+📅 *Available from January 2027*
 
-**Passionate about:** Full-Stack Development • Clean Code • Software Architecture • DevOps
+*Looking to build real-world, secure and scalable applications within an ambitious team*
+
+**Passionate about:** Full-Stack Development • Software Architecture • Secure APIs • DevOps
+
+</div>
+
+## 🌍 Languages
+
+<div align="center">
+
+🇲🇦 **Arabic** — Native • 🇫🇷 **French** — Fluent • 🇬🇧 **English** — Fluent • 🇪🇸 **Spanish** — Basic
 
 </div>
 
@@ -101,7 +131,7 @@ I enjoy turning ideas into working products, writing maintainable code, and lear
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsa-haroual-297431328/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafsahaha311@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haroual.hafsaa@gmail.com)
 
 </div>
 
@@ -109,7 +139,7 @@ I enjoy turning ideas into working products, writing maintainable code, and lear
 
 <div align="center">
 
-### 💡 "Building clean, scalable, full-stack applications — one commit at a time"
+### 💡 "Turning real-world needs into secure, scalable and maintainable software"
 
 *💻 Software Engineer in Training • 🌐 Full-Stack Developer • 🚀 Problem Solver*
 
